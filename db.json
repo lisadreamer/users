@@ -1,0 +1,11 @@
+{
+  "users": [
+    {"id": "7", "fName": "Elisa", "age": 18, "companyId": "1"},
+    {"id": "18", "fName": "Mia", "age": 17, "companyId": "2"},
+    {"id": "19", "fName": "Vivien", "age": 20, "companyId": "2"}
+  ],
+  "companies": [
+    {"id": "1", "name": "Zara", "description": "style"},
+    {"id": "2", "name": "H&M", "description": "clothes"}
+  ]
+}
